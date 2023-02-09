@@ -42,7 +42,7 @@ int game(){
 
 int menu(){
     int option;
-    printf("\nOla, seja bem vindo! Selecione uma opcao abaixoooooo: \n 1 - Novo Jogo\n 2 - Ver Historico \n 3 - Limpar Historico (alpha)\n 4 - Sair\n");
+    printf("\nOla, seja bem vindo! Selecione uma opcao abaixoooooo: \n 1 - Novo Jogo\n 2 - Vooioernao aguento mais Historico \n 3 - Limpar Historico (alpha)\n 4 - Sair\n");
     scanf("%d", &option);
     return option;
 }
